@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="start_circle_btn_width">60dp</dimen>
+    <dimen name="start_circle_btn_stroke_width">4dp</dimen>
+    <dimen name="count_down_time_text_size">40dp</dimen>
+</resources>

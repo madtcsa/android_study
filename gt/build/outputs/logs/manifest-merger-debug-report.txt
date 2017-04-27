@@ -1,0 +1,673 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:2:1-322:12
+INJECTED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:2:1-322:12
+INJECTED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:2:1-322:12
+INJECTED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:2:1-322:12
+INJECTED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:2:1-322:12
+INJECTED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:2:1-322:12
+INJECTED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:2:1-322:12
+	package
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:5:5-34
+		INJECTED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml
+		INJECTED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:8:5-34
+		INJECTED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml
+		INJECTED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:2:11-69
+	coreApp
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:4:5-19
+	android:versionCode
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:7:5-32
+		INJECTED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml
+		INJECTED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml
+	android:installLocation
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:6:5-35
+uses-sdk
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:10:5-12:41
+INJECTED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:10:5-12:41
+INJECTED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:10:5-12:41
+INJECTED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:10:5-12:41
+INJECTED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:10:5-12:41
+	android:targetSdkVersion
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:12:9-38
+		INJECTED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml
+		INJECTED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:11:9-35
+		INJECTED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml
+		INJECTED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:14:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:15:5-80
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:15:22-77
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:16:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:17:5-76
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:17:22-73
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:18:5-78
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:18:22-75
+uses-permission#android.permission.RESTART_PACKAGES
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:19:5-75
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:19:22-72
+uses-permission#android.permission.GET_TASKS
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:20:5-68
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:20:22-65
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:21:22-63
+uses-permission#android.permission.INTERNET
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:22:5-67
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:22:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:23:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:24:5-81
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:24:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:25:5-79
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:25:22-76
+uses-permission#android.permission.ACCESS_MOCK_LOCATION
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:26:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:27:5-68
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:27:22-65
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:28:5-76
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:28:22-73
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:29:5-73
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:29:22-70
+uses-permission#android.permission.ACCESS_SUPERUSER
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:30:5-75
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:30:22-72
+uses-permission#android.permission.CHANGE_CONFIGURATION
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:31:5-79
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:31:22-76
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:32:5-84
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:32:22-81
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:33:5-80
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:33:22-77
+uses-permission#android.permission.READ_USER_DICTIONARY
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:34:5-79
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:34:22-76
+uses-permission#android.permission.WRITE_USER_DICTIONARY
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:35:5-80
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:35:22-77
+uses-permission#android.permission.BATTERY_STATS
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:36:5-72
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:36:22-69
+uses-permission#com.android.launcher.permission.READ_SETTINGS
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:37:5-85
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:37:22-82
+uses-permission#com.android.launcher.permission.WRITE_SETTINGS
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:38:5-86
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:38:22-83
+uses-permission#android.permission.READ_SYNC_SETTINGS
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:39:5-77
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:39:22-74
+uses-permission#android.permission.WRITE_SYNC_SETTINGS
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:40:5-78
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:40:22-75
+uses-permission#android.permission.READ_SYNC_STATS
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:41:5-74
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:41:22-71
+uses-permission#android.permission.SET_KEYBOARD_LAYOUT
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:42:5-78
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:42:22-75
+uses-permission#android.permission.WRITE_OWNER_DATA
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:43:5-75
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:43:22-72
+uses-permission#android.permission.READ_OWNER_DATA
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:44:5-74
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:44:22-71
+uses-permission#android.permission.READ_LOGS
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:45:5-68
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:45:22-65
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:46:5-75
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:46:22-72
+uses-permission#android.permission.ACCESS_CHECKIN_PROPERTIES
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:47:5-49:47
+	tools:ignore
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:49:9-44
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:48:9-68
+uses-permission#android.permission.FACTORY_TEST
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:50:5-52:47
+	tools:ignore
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:52:9-44
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:51:9-55
+uses-permission#android.permission.ACCESS_SURFACE_FLINGER
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:53:5-55:47
+	tools:ignore
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:55:9-44
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:54:9-65
+supports-screens
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:57:5-62:39
+	android:largeScreens
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:59:9-36
+	android:smallScreens
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:62:9-36
+	android:normalScreens
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:60:9-37
+	android:resizeable
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:61:9-34
+	android:anyDensity
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:58:9-34
+application
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:64:5-320:19
+	android:label
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:68:9-41
+	android:icon
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:67:9-40
+	android:allowBackup
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:66:9-36
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:65:9-49
+activity#com.tencent.wstt.gt.activity.SplashActivity
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:69:9-79:20
+	android:label
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:71:13-45
+	android:launchMode
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:72:13-44
+	android:theme
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:73:13-71
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:70:13-52
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:74:13-78:29
+action#android.intent.action.MAIN
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:75:17-69
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:75:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:77:17-77
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:77:27-74
+activity#com.tencent.wstt.gt.activity.GTMainActivity
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:80:9-86:55
+	android:screenOrientation
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:84:13-49
+	android:launchMode
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:83:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:86:13-52
+	android:exported
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:82:13-36
+	android:theme
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:85:13-56
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:81:13-71
+activity#com.tencent.wstt.gt.activity.GTLogSearchActivity
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:87:9-92:55
+	android:screenOrientation
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:90:13-49
+	android:launchMode
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:89:13-43
+	android:windowSoftInputMode
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:92:13-52
+	android:theme
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:91:13-47
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:88:13-76
+activity#com.tencent.wstt.gt.activity.GTPerfGroupDetailActivity
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:93:9-97:50
+	android:screenOrientation
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:96:13-49
+	android:launchMode
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:95:13-43
+	android:theme
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:97:13-47
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:94:13-82
+activity#com.tencent.wstt.gt.activity.GTOpMulPerfActivity
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:98:9-102:50
+	android:screenOrientation
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:101:13-49
+	android:launchMode
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:100:13-43
+	android:theme
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:102:13-47
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:99:13-76
+activity#com.tencent.wstt.gt.activity.GTOpSinglePerfActivity
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:103:9-107:50
+	android:screenOrientation
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:106:13-49
+	android:launchMode
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:105:13-43
+	android:theme
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:107:13-47
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:104:13-79
+activity#com.tencent.wstt.gt.activity.GTOpSMActivity
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:108:9-112:50
+	android:screenOrientation
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:111:13-49
+	android:launchMode
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:110:13-43
+	android:theme
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:112:13-47
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:109:13-71
+activity#com.tencent.wstt.gt.activity.GTInputParamSetActivity
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:114:9-118:50
+	android:screenOrientation
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:117:13-49
+	android:launchMode
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:116:13-48
+	android:theme
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:118:13-47
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:115:13-80
+activity#com.tencent.wstt.gt.activity.GTAboutActivity
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:119:9-123:50
+	android:screenOrientation
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:122:13-49
+	android:launchMode
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:121:13-43
+	android:theme
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:123:13-47
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:120:13-72
+activity#com.tencent.wstt.gt.activity.GTLogSwitchActivity
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:124:9-128:50
+	android:screenOrientation
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:127:13-49
+	android:launchMode
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:126:13-43
+	android:theme
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:128:13-47
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:125:13-76
+activity#com.tencent.wstt.gt.activity.GTACSettingActivity
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:129:9-133:50
+	android:screenOrientation
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:132:13-49
+	android:launchMode
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:131:13-43
+	android:theme
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:133:13-47
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:130:13-76
+activity#com.tencent.wstt.gt.activity.GTIntervalSettingActivity
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:134:9-138:50
+	android:screenOrientation
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:137:13-49
+	android:launchMode
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:136:13-43
+	android:theme
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:138:13-47
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:135:13-82
+activity#com.tencent.wstt.gt.plugin.tcpdump.GTCaptureActivity
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:139:9-143:50
+	android:screenOrientation
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:142:13-49
+	android:launchMode
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:141:13-43
+	android:theme
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:143:13-47
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:140:13-80
+activity#com.tencent.wstt.gt.plugin.battery.GTBatteryActivity
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:144:9-148:50
+	android:screenOrientation
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:147:13-49
+	android:launchMode
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:146:13-43
+	android:theme
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:148:13-47
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:145:13-80
+activity#com.tencent.wstt.gt.activity.GTShowPackageActivity
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:149:9-153:50
+	android:screenOrientation
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:152:13-49
+	android:launchMode
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:151:13-43
+	android:theme
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:153:13-47
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:150:13-78
+activity#com.tencent.wstt.gt.plugin.screenlock.GTScreenlockActivity
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:154:9-158:50
+	android:screenOrientation
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:157:13-49
+	android:launchMode
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:156:13-43
+	android:theme
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:158:13-47
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:155:13-86
+activity#com.tencent.wstt.gt.plugin.memfill.GTMemFillActivity
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:159:9-163:50
+	android:screenOrientation
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:162:13-49
+	android:launchMode
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:161:13-43
+	android:theme
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:163:13-47
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:160:13-80
+activity#com.tencent.wstt.gt.activity.ShowhtmlActivity
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:164:9-168:50
+	android:screenOrientation
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:167:13-49
+	android:launchMode
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:166:13-43
+	android:theme
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:168:13-47
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:165:13-73
+activity#com.tencent.wstt.gt.plugin.gps.GTGPSActivity
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:169:9-173:50
+	android:screenOrientation
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:172:13-49
+	android:exported
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:171:13-36
+	android:theme
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:173:13-47
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:170:13-53
+activity#com.tencent.wstt.gt.plugin.gps.GTGPSReplayActivity
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:174:9-178:50
+	android:screenOrientation
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:177:13-49
+	android:exported
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:176:13-36
+	android:theme
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:178:13-47
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:175:13-59
+activity#com.tencent.wstt.gt.plugin.smtools.SMActivity
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:179:9-183:50
+	android:screenOrientation
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:182:13-49
+	android:launchMode
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:181:13-43
+	android:theme
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:183:13-47
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:180:13-73
+activity#com.tencent.wstt.gt.plugin.octopus.GTOctopusActivity
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:184:9-188:50
+	android:screenOrientation
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:187:13-49
+	android:launchMode
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:186:13-43
+	android:theme
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:188:13-47
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:185:13-80
+service#com.tencent.wstt.gt.service.GTService
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:191:9-199:19
+	android:exported
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:193:13-36
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:192:13-46
+intent-filter#com.tencent.wstt.gt.service
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:194:13-198:29
+action#com.tencent.wstt.gt.service
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:195:17-197:47
+	android:exported
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:197:21-44
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:196:21-63
+service#com.tencent.wstt.gt.service.GTFloatView
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:200:9-56
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:200:18-53
+service#com.tencent.wstt.gt.service.GTLogo
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:201:9-51
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:201:18-48
+service#com.tencent.wstt.gt.plugin.internal.PluginService
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:202:9-66
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:202:18-63
+service#com.tencent.wstt.gt.plugin.smtools.SMLogService
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:203:9-64
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:203:18-61
+service#com.tencent.wstt.gt.plugin.smtools.SMDataService
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:204:9-65
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:204:18-62
+receiver#com.tencent.wstt.gt.plugin.battery.BTBroadcast
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:206:9-217:20
+	android:exported
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:208:13-36
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:207:13-55
+intent-filter#com.tencent.wstt.gt.plugin.battery.endTest+com.tencent.wstt.gt.plugin.battery.startTest
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:209:13-216:29
+action#com.tencent.wstt.gt.plugin.battery.startTest
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:210:17-212:47
+	android:exported
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:212:21-44
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:211:21-80
+action#com.tencent.wstt.gt.plugin.battery.endTest
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:213:17-215:47
+	android:exported
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:215:21-44
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:214:21-78
+receiver#com.tencent.wstt.gt.plugin.memfill.MFBroadcast
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:219:9-230:20
+	android:exported
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:221:13-36
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:220:13-55
+intent-filter#com.tencent.wstt.gt.plugin.memfill.fill+com.tencent.wstt.gt.plugin.memfill.free
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:222:13-229:29
+action#com.tencent.wstt.gt.plugin.memfill.fill
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:223:17-225:47
+	android:exported
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:225:21-44
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:224:21-75
+action#com.tencent.wstt.gt.plugin.memfill.free
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:226:17-228:47
+	android:exported
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:228:21-44
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:227:21-75
+receiver#com.tencent.wstt.gt.plugin.tcpdump.CaptureBroadcast
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:232:9-243:20
+	android:exported
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:234:13-36
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:233:13-79
+intent-filter#com.tencent.wstt.gt.plugin.tcpdump.endTest+com.tencent.wstt.gt.plugin.tcpdump.startTest
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:235:13-242:29
+action#com.tencent.wstt.gt.plugin.tcpdump.startTest
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:236:17-238:47
+	android:exported
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:238:21-44
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:237:21-80
+action#com.tencent.wstt.gt.plugin.tcpdump.endTest
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:239:17-241:47
+	android:exported
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:241:21-44
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:240:21-78
+receiver#com.tencent.wstt.gt.plugin.gps.GPSMockBroadcast
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:245:9-262:20
+	android:exported
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:247:13-36
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:246:13-56
+intent-filter#com.tencent.wstt.gt.plugin.gps.endRecord+com.tencent.wstt.gt.plugin.gps.endReplay+com.tencent.wstt.gt.plugin.gps.startRecord+com.tencent.wstt.gt.plugin.gps.startReplay
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:248:13-261:29
+action#com.tencent.wstt.gt.plugin.gps.startRecord
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:249:17-251:47
+	android:exported
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:251:21-44
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:250:21-78
+action#com.tencent.wstt.gt.plugin.gps.endRecord
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:252:17-254:47
+	android:exported
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:254:21-44
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:253:21-76
+action#com.tencent.wstt.gt.plugin.gps.startReplay
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:255:17-257:47
+	android:exported
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:257:21-44
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:256:21-78
+action#com.tencent.wstt.gt.plugin.gps.endReplay
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:258:17-260:47
+	android:exported
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:260:21-44
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:259:21-76
+receiver#com.tencent.wstt.gt.plugin.smtools.SMBroadcast
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:264:9-287:20
+	android:exported
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:266:13-36
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:265:13-55
+intent-filter#com.tencent.wstt.gt.plugin.sm.check+com.tencent.wstt.gt.plugin.sm.endTest+com.tencent.wstt.gt.plugin.sm.modify+com.tencent.wstt.gt.plugin.sm.restart+com.tencent.wstt.gt.plugin.sm.resume+com.tencent.wstt.gt.plugin.sm.startTest
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:267:13-286:29
+action#com.tencent.wstt.gt.plugin.sm.check
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:268:17-270:47
+	android:exported
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:270:21-44
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:269:21-71
+action#com.tencent.wstt.gt.plugin.sm.modify
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:271:17-273:47
+	android:exported
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:273:21-44
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:272:21-72
+action#com.tencent.wstt.gt.plugin.sm.resume
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:274:17-276:47
+	android:exported
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:276:21-44
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:275:21-72
+action#com.tencent.wstt.gt.plugin.sm.restart
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:277:17-279:47
+	android:exported
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:279:21-44
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:278:21-73
+action#com.tencent.wstt.gt.plugin.sm.startTest
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:280:17-282:47
+	android:exported
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:282:21-44
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:281:21-75
+action#com.tencent.wstt.gt.plugin.sm.endTest
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:283:17-285:47
+	android:exported
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:285:21-44
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:284:21-73
+receiver#com.tencent.wstt.gt.receiver.BaseCommandReceiver
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:289:9-306:20
+	android:exported
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:291:13-36
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:290:13-57
+intent-filter#com.tencent.wstt.gt.baseCommand.endTest+com.tencent.wstt.gt.baseCommand.exitGT+com.tencent.wstt.gt.baseCommand.sampleData+com.tencent.wstt.gt.baseCommand.startTest
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:292:13-305:29
+action#com.tencent.wstt.gt.baseCommand.startTest
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:293:17-295:47
+	android:exported
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:295:21-44
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:294:21-77
+action#com.tencent.wstt.gt.baseCommand.sampleData
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:296:17-298:47
+	android:exported
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:298:21-44
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:297:21-78
+action#com.tencent.wstt.gt.baseCommand.endTest
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:299:17-301:47
+	android:exported
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:301:21-44
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:300:21-75
+action#com.tencent.wstt.gt.baseCommand.exitGT
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:302:17-304:47
+	android:exported
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:304:21-44
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:303:21-74
+meta-data#TA_APPKEY
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:309:9-311:45
+	android:value
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:311:13-42
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:310:13-37
+meta-data#InstallChannel
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:312:9-314:36
+	android:value
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:314:13-33
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:313:13-42
+provider#com.tencent.mid.api.MidProvider
+ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:315:3-319:20
+	android:authorities
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:317:13-69
+	android:exported
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:318:13-36
+	android:name
+		ADDED from /Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/AndroidManifest.xml:316:13-59

@@ -10,6 +10,14 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/customview" />
+            <option value="$PROJECT_DIR$/foatingwindow" />
+            <option value="$PROJECT_DIR$/gt" />
+            <option value="$PROJECT_DIR$/hookstudy" />
+            <option value="$PROJECT_DIR$/livetest" />
+            <option value="$PROJECT_DIR$/mvpdemo" />
+            <option value="$PROJECT_DIR$/tomotatime" />
+            <option value="$PROJECT_DIR$/viewevent" />
+            <option value="$PROJECT_DIR$/views" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

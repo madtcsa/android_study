@@ -1,0 +1,242 @@
+[
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable/editbtn.xml",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable/editbtn.xml"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable/swbtn_bottom.xml",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable/swbtn_bottom.xml"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable/edit_selected.xml",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable/edit_selected.xml"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable/pi_cpuinfo.png",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable/pi_cpuinfo.png"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable/textview_bg_shape.xml",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable/textview_bg_shape.xml"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable/logassert.xml",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable/logassert.xml"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable/splash_text.png",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable/splash_text.png"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable/logdebug.xml",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable/logdebug.xml"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable/pi_capture.png",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable/pi_capture.png"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable/pi_procinfo.png",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable/pi_procinfo.png"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable/logo3.png",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable/logo3.png"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable/swbtn_default.xml",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable/swbtn_default.xml"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable/suggest_border.xml",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable/suggest_border.xml"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable/pi_bugly.png",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable/pi_bugly.png"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable/gt_apk.png",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable/gt_apk.png"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable/pi_battery.png",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable/pi_battery.png"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable/pi_injector.png",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable/pi_injector.png"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable/switch_on_border.xml",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable/switch_on_border.xml"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable/seekbar_drawable.xml",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable/seekbar_drawable.xml"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable/tcpdump_border.xml",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable/tcpdump_border.xml"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable/pi_memfill.png",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable/pi_memfill.png"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable/splash_gt.png",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable/splash_gt.png"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable/a_gt_drop_default_listitem_textview.xml",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable/a_gt_drop_default_listitem_textview.xml"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable/button_text.xml",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable/button_text.xml"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable/logfilterdefault.xml",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable/logfilterdefault.xml"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable/logfilterselector.xml",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable/logfilterselector.xml"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable/pi_netwake.png",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable/pi_netwake.png"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable/tab_selected_border.xml",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable/tab_selected_border.xml"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable/switch_off_border.xml",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable/switch_off_border.xml"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable/loglevelandfilterbackground.xml",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable/loglevelandfilterbackground.xml"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable/gt_entrlogo.png",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable/gt_entrlogo.png"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable/seekbar_background.9.png",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable/seekbar_background.9.png"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable/divid_line.png",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable/divid_line.png"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable/logerror.xml",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable/logerror.xml"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable/gw_start.png",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable/gw_start.png"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable/tcpdump_switch_on_border.xml",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable/tcpdump_switch_on_border.xml"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable/pi_gps.png",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable/pi_gps.png"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable/pi_netswitch.jpg",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable/pi_netswitch.jpg"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable/loginfo.xml",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable/loginfo.xml"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable/a_gt_inparam_top.xml",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable/a_gt_inparam_top.xml"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable/textview_his_shape.xml",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable/textview_his_shape.xml"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable/alert_bg.9.png",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable/alert_bg.9.png"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable/bg.xml",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable/bg.xml"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable/gtcheckbox.xml",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable/gtcheckbox.xml"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable/seek_thumb2.png",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable/seek_thumb2.png"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable/logverbose.xml",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable/logverbose.xml"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable/drag.png",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable/drag.png"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable/gt_entrlogo2.png",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable/gt_entrlogo2.png"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable/tab_default_border.xml",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable/tab_default_border.xml"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable/seekbar_border.xml",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable/seekbar_border.xml"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable/about_gt.png",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable/about_gt.png"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable/gw_pause.png",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable/gw_pause.png"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable/dialog_window_bg.xml",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable/dialog_window_bg.xml"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable/memfloatview.xml",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable/memfloatview.xml"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable/logo1.png",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable/logo1.png"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable/pi_batterystate.png",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable/pi_batterystate.png"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable/logwarn.xml",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable/logwarn.xml"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable/a_gt_drop_textview.xml",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable/a_gt_drop_textview.xml"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable/pi_screenlock.png",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable/pi_screenlock.png"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable/swbtn_selected.xml",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable/swbtn_selected.xml"
+    }
+]

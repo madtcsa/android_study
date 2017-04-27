@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable-hdpi-v4/a_gt_log_search_next_btn_border.xml",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable-hdpi/a_gt_log_search_next_btn_border.xml"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable-hdpi-v4/a_gt_imgbtn_next_selector.xml",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable-hdpi/a_gt_imgbtn_next_selector.xml"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable-hdpi-v4/a_gt_log_ed_default_border.xml",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable-hdpi/a_gt_log_ed_default_border.xml"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable-hdpi-v4/a_gt_imgbtn_back_selector.xml",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable-hdpi/a_gt_imgbtn_back_selector.xml"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable-hdpi-v4/a_gt_imgbtn_clear_selector.xml",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable-hdpi/a_gt_imgbtn_clear_selector.xml"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable-hdpi-v4/a_gt_log_filter_list_item_selector.xml",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable-hdpi/a_gt_log_filter_list_item_selector.xml"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable-hdpi-v4/a_gt_perf_tag_list_item_border.xml",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable-hdpi/a_gt_perf_tag_list_item_border.xml"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable-hdpi-v4/a_gt_imgbtn_save_selector.xml",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable-hdpi/a_gt_imgbtn_save_selector.xml"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable-hdpi-v4/a_gt_imgbtn_open_selector.xml",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable-hdpi/a_gt_imgbtn_open_selector.xml"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable-hdpi-v4/a_gt_log_btn_default_border.xml",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable-hdpi/a_gt_log_btn_default_border.xml"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable-hdpi-v4/a_gt_sortable_bottom.xml",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable-hdpi/a_gt_sortable_bottom.xml"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable-hdpi-v4/a_gt_imgbtn_search_selector.xml",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable-hdpi/a_gt_imgbtn_search_selector.xml"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable-hdpi-v4/a_gt_imgbtn_pre_selector.xml",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable-hdpi/a_gt_imgbtn_pre_selector.xml"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable-hdpi-v4/a_gt_perf_op_btn_selected_border.xml",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable-hdpi/a_gt_perf_op_btn_selected_border.xml"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable-hdpi-v4/a_gt_perf_op_btn_default_border.xml",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable-hdpi/a_gt_perf_op_btn_default_border.xml"
+    }
+]

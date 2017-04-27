@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable-mdpi/gt_entrlogo.png",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable-mdpi/gt_entrlogo.png"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable-mdpi/gt_apk.png",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable-mdpi/gt_apk.png"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable-mdpi/btn_slip_1.png",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable-mdpi/btn_slip_1.png"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable-mdpi/splash_gt.png",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable-mdpi/splash_gt.png"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable-mdpi/bg_slip_on_1.png",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable-mdpi/bg_slip_on_1.png"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable-mdpi/seekbar_background.9.png",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable-mdpi/seekbar_background.9.png"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable-mdpi/divid_line.png",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable-mdpi/divid_line.png"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable-mdpi/gt_entrlogo2.png",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable-mdpi/gt_entrlogo2.png"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable-mdpi/splash_text.png",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable-mdpi/splash_text.png"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable-mdpi/bg_slip_off_1.png",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable-mdpi/bg_slip_off_1.png"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable-mdpi/about_gt.png",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable-mdpi/about_gt.png"
+    }
+]

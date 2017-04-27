@@ -1,1 +1,1 @@
-include ':app', ':customview'
+include ':app', ':customview', ':gt', ':tomotatime', ':foatingwindow', ':hookstudy', ':mvpdemo', ':viewevent', ':livetest', ':views'

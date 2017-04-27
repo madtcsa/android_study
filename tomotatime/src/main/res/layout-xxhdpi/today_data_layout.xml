@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:orientation="vertical"
+              android:paddingTop="5dp"
+              android:paddingLeft="5dp"
+              android:layout_marginTop="10dp"
+              android:paddingRight="5dp"
+              android:background="@color/myDataPageBackground"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content">
+
+    <TextView
+            android:id="@+id/total_data_text"
+            android:layout_width="wrap_content"
+            android:text="@string/today_data"
+            android:textColor="@color/myDataPageTextColour"
+            android:layout_height="wrap_content"/>
+
+    <include layout="@layout/line_layout"/>
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+        <TextView
+                android:id="@+id/tomato_time"
+                android:text="@string/today_data"
+                android:layout_width="0dp"
+                android:gravity="center"
+                android:padding="5dp"
+                android:textColor="@color/myDataPageTextColour"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"/>
+
+        <TextView
+                android:id="@+id/rank"
+                android:text="@string/rank"
+                android:layout_width="0dp"
+                android:textColor="@color/myDataPageTextColour"
+                android:layout_weight="1"
+                android:padding="5dp"
+                android:gravity="center"
+                android:layout_height="wrap_content"/>
+    </LinearLayout>
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+        <TextView
+                android:id="@+id/text_today_tomato_time"
+                tools:text="75Minutes"
+                android:layout_width="0dp"
+                android:gravity="center"
+                android:padding="5dp"
+                android:textColor="@color/myDataPageTextColour"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"/>
+
+        <TextView
+                android:id="@+id/text_today_rank"
+                tools:text="999+"
+                android:layout_width="0dp"
+                android:textColor="@color/myDataPageTextColour"
+                android:layout_weight="1"
+                android:padding="5dp"
+                android:gravity="center"
+                android:layout_height="wrap_content"/>
+    </LinearLayout>
+</LinearLayout>
