@@ -164,12 +164,12 @@
         "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/layout/gt_loglist_item.xml"
     },
     {
-        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/layout/gt_floatview3.xml",
-        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/layout/gt_floatview3.xml"
-    },
-    {
         "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/layout/gt_perf_op_mul_detail.xml",
         "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/layout/gt_perf_op_mul_detail.xml"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/layout/gt_floatview3.xml",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/layout/gt_floatview3.xml"
     },
     {
         "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/layout/gt_perf_op_detail_sm.xml",

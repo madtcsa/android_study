@@ -232,11 +232,11 @@
         "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable/a_gt_drop_textview.xml"
     },
     {
-        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable/pi_screenlock.png",
-        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable/pi_screenlock.png"
-    },
-    {
         "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable/swbtn_selected.xml",
         "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable/swbtn_selected.xml"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable/pi_screenlock.png",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable/pi_screenlock.png"
     }
 ]

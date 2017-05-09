@@ -152,12 +152,12 @@
         "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable-hdpi/bg_slip_off_1.png"
     },
     {
-        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable-hdpi/a_bg_list_draging.png",
-        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable-hdpi/a_bg_list_draging.png"
-    },
-    {
         "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable-hdpi/gt_entrlogo.png",
         "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable-hdpi/gt_entrlogo.png"
+    },
+    {
+        "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable-hdpi/a_bg_list_draging.png",
+        "source": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/src/main/res/drawable-hdpi/a_bg_list_draging.png"
     },
     {
         "merged": "/Users/chenwei/a23qws_github/AndroidStudy2/gt/build/intermediates/res/merged/debug/drawable-hdpi/unfold_arrow.9.png",

@@ -8,9 +8,12 @@
       <module fileurl="file://$PROJECT_DIR$/foatingwindow/foatingwindow.iml" filepath="$PROJECT_DIR$/foatingwindow/foatingwindow.iml" />
       <module fileurl="file://$PROJECT_DIR$/gt/gt.iml" filepath="$PROJECT_DIR$/gt/gt.iml" />
       <module fileurl="file://$PROJECT_DIR$/hookstudy/hookstudy.iml" filepath="$PROJECT_DIR$/hookstudy/hookstudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/life.do/life.do.iml" filepath="$PROJECT_DIR$/life.do/life.do.iml" />
       <module fileurl="file://$PROJECT_DIR$/livetest/livetest.iml" filepath="$PROJECT_DIR$/livetest/livetest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mulcontentprovider/mulcontentprovider.iml" filepath="$PROJECT_DIR$/mulcontentprovider/mulcontentprovider.iml" />
       <module fileurl="file://$PROJECT_DIR$/mvpdemo/mvpdemo.iml" filepath="$PROJECT_DIR$/mvpdemo/mvpdemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/tomotatime/tomotatime.iml" filepath="$PROJECT_DIR$/tomotatime/tomotatime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myTomato/myTomato.iml" filepath="$PROJECT_DIR$/myTomato/myTomato.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testsamsunglive/testsamsunglive.iml" filepath="$PROJECT_DIR$/testsamsunglive/testsamsunglive.iml" />
       <module fileurl="file://$PROJECT_DIR$/viewevent/viewevent.iml" filepath="$PROJECT_DIR$/viewevent/viewevent.iml" />
       <module fileurl="file://$PROJECT_DIR$/views/views.iml" filepath="$PROJECT_DIR$/views/views.iml" />
     </modules>

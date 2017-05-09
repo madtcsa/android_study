@@ -1,1 +1,1 @@
-include ':app', ':customview', ':gt', ':tomotatime', ':foatingwindow', ':hookstudy', ':mvpdemo', ':viewevent', ':livetest', ':views'
+include ':app', ':customview', ':gt', ':myTomato', ':foatingwindow', ':hookstudy', ':mvpdemo', ':viewevent', ':livetest', ':views', ':life.do', ':testsamsunglive', ':mulcontentprovider'

@@ -22,9 +22,9 @@ public class HeartService extends Service {
     @Override
     public void onCreate() {
         super.onCreate();
-        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
-            startService(new Intent(this, DaemonService.class));
-        }
+//        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
+//            startService(new Intent(this, DaemonService.class));
+//        }
     }
 
     @Override
